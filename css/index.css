@@ -47,7 +47,7 @@ body{
 .botao-index {
     font-size: 1.25em;
     /* background-color:#851944; */
-		/* color: #FFF; */
+		color: #FFF;
 		color: blue;
     padding: .5em;
     /* border: .2em solid black; */
@@ -62,7 +62,8 @@ body{
 }
 .botao-index:focus,
 .botao-index:hover {
-    background-color:#851944;
+		/* background-color:#851944; */
+		background-color: blue;
     color: white;
     box-shadow: 0 0 1em #FA9;
 }
