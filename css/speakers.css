@@ -33,7 +33,8 @@
     }
     .panel-speakers .speaker{
         
-        background: white;
+				/* background: rgb(0, 162, 255); */
+				background-color: white;
         /* um do lado do outro */
         display: inline-block;
         /* espaçamento na margin direita e na margin de botton */

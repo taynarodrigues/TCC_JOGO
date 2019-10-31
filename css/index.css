@@ -46,17 +46,19 @@ body{
 } */
 .botao-index {
     font-size: 1.25em;
-    background-color:#851944;
-    color: #FFF;
+    /* background-color:#851944; */
+		/* color: #FFF; */
+		color: blue;
     padding: .5em;
     /* border: .2em solid black; */
     width: 40ch;
     margin: 2em auto;
-    display: block;
-     border-radius: 50%; 
+    /* display: block; */
+     /* border-radius: 50%;  */
     text-align: center;
     text-decoration: none;
-    transition: .5s;
+		/* transition: .5s; */
+		cursor: pointer;
 }
 .botao-index:focus,
 .botao-index:hover {
